@@ -50,7 +50,11 @@
 		</javaClientGenerator>
 
 		<!-- 数据库表名字和我们的entity类对应的映射指定 -->
+<<<<<<< HEAD
 		<table tableName="t_role2" domainObjectName="Role2" />
+=======
+		<table tableName="t_role1" domainObjectName="Role1" />
+>>>>>>> branch 'master' of https://github.com/JinqiuLee/reverse.git
 
 
 	</context>
